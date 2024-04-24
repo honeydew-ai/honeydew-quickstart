@@ -2,10 +2,13 @@ type: perspective
 name: tpch_q17
 owner: david@honeydew.ai
 description: >-
-  Small-Quantity-Order Revenue Query (Q17)   This query determines how much
-  average yearly revenue would be lost if orders were no longer filled for small
-  quantities of certain parts. This may reduce overhead expenses by
-  concentrating sales on larger shipments. 
+  Small-Quantity-Order Revenue Query (Q17)  
+
+  This query determines how much average yearly revenue would be lost if orders
+  were no longer filled for small quantities of certain parts. This may reduce
+  overhead expenses by concentrating sales on larger shipments. 
+
+
   Business Question 
 
   The Small-Quantity-Order Revenue Query considers parts of a given brand and
