@@ -1,4 +1,4 @@
-type: filter
+type: calculated_attribute
 entity: lineitem
 name: is_small_quantity_items
 owner: david@honeydew.ai
